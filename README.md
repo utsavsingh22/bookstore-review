@@ -1,6 +1,3 @@
-# Project 1
-
-Web Programming with Python and JavaScript
 
 # Bookstore review website
 
@@ -41,6 +38,3 @@ for creating table easily and importin 5000 files to books table
 the average rating and number of ratings the work has received from Goodreads.
 
 ## thank you!!
-
-## video for this project1
-https://youtu.be/Kc0bsCGaCMc
